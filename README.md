@@ -1,4 +1,4 @@
-##Penjelasan
+#Penjelasan
   
 Program ini adalah kalkulator sederhana berbasis Windows Forms (WinForms) yang dibuat dengan C#. Pengguna dapat melakukan penjumlahan, pengurangan, perkalian, dan pembagian dengan memasukkan dua angka dalam TextBox dan menekan tombol operasi. Hasil ditampilkan di TextBox hasil.  
 Terdapat ada 2 file yaitu:
