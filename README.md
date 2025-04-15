@@ -6,7 +6,6 @@ Aplikasi kuis ini merupakan aplikasi edukatif berbasis desktop yang dibuat mengg
 2. Halaman Selamat Datang
 3. Kuis Pilihan Ganda
 4. Hasil Kuis
-5. Struktur Modular
    
 # Teknologi yang Digunakan
 - .NET Framework
