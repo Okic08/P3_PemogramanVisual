@@ -14,7 +14,7 @@ Aplikasi kuis ini merupakan aplikasi edukatif berbasis desktop yang dibuat mengg
 kan juga versi presentasi atau file PDF-nya. Atau bantuin desain UI-nya di Figma kalau udah punya konsep tampilan tertentu. Mau lanjut ke bagian mana?
 
 # Hasil Mockup
-https://www.figma.com/design/A2Gnb8a9S1RJiLE2ALJwxd/Desain-Mockup-Aplikasi-Voting?node-id=0-1&p=f&t=Mq60UuPePWxqlJVn-0
+https://www.figma.com/design/A2Gnb8a9S1RJiLE2ALJwxd/Desain-Mockup-Aplikasi-Voting?node-id=0-1&t=iEF7Ezp8SjCWGaut-1
 
 # Pembuat
 nama  : Ciko Nanda P.W.
