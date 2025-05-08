@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormAddSoal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDeleteSoal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditSoal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormViewSoal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
