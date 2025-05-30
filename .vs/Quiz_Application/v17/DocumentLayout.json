@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\quiz_application\\formviewsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formviewsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\quiz_application\\quiz_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\quiz_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\quiz_application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\quiz_application\\formeditsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formeditsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\quiz_application\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formeditsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formeditsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\quiz_application\\formdeletesoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formdeletesoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\quiz_application\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\quiz_application\\formaddsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formaddsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\quiz_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\quiz_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formdeletesoal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formdeletesoal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formviewsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formviewsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formviewsoal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formviewsoal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formeditsoal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formeditsoal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formdeletesoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formdeletesoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formaddsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formaddsoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\formaddsoal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\formaddsoal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|c:\\users\\ciko\\source\\repos\\quiz_application\\quiz_application\\quiz_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC3143C-F4BF-4601-AED3-7F7B4C8F69B5}|Quiz_Application\\Quiz_Application.csproj|solutionrelative:quiz_application\\quiz_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEditSoal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormEditSoal.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormEditSoal.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormEditSoal.cs [Design]",
+              "RelativeToolTip": "Quiz_Application\\FormEditSoal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:00:23.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormStart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormStart.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormStart.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormStart.cs [Design]",
+              "RelativeToolTip": "Quiz_Application\\FormStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:51:25.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormViewSoal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormViewSoal.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormViewSoal.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormViewSoal.cs [Design]",
+              "RelativeToolTip": "Quiz_Application\\FormViewSoal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:36:18.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Login.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\Login.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Login.cs [Design]",
+              "RelativeToolTip": "Quiz_Application\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:20:39.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quiz_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Quiz_Form.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\Quiz_Form.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Quiz_Form.cs [Design]",
+              "RelativeToolTip": "Quiz_Application\\Quiz_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:05:14.148Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormEditSoal.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormEditSoal.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormEditSoal.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormEditSoal.cs",
+              "RelativeToolTip": "Quiz_Application\\FormEditSoal.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAcwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:03:28.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDeleteSoal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormDeleteSoal.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormDeleteSoal.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormDeleteSoal.cs [Design]",
+              "RelativeToolTip": "Quiz_Application\\FormDeleteSoal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:40:25.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAdmin.cs [Design]",
+              "RelativeToolTip": "Quiz_Application\\FormAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:51:29.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAddSoal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAddSoal.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormAddSoal.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAddSoal.cs [Design]",
+              "RelativeToolTip": "Quiz_Application\\FormAddSoal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:46:53.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Login.Designer.cs",
+              "RelativeToolTip": "Quiz_Application\\Login.Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:23:58.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Login.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\Login.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Login.cs",
+              "RelativeToolTip": "Quiz_Application\\Login.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:22:16.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDeleteSoal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormDeleteSoal.Designer.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormDeleteSoal.Designer.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormDeleteSoal.Designer.cs",
+              "RelativeToolTip": "Quiz_Application\\FormDeleteSoal.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:40:34.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAdmin.Designer.cs",
+              "RelativeToolTip": "Quiz_Application\\FormAdmin.Designer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwEAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:45:15.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAdmin.cs",
+              "RelativeToolTip": "Quiz_Application\\FormAdmin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:24:31.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Quiz_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Quiz_Form.Designer.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\Quiz_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Quiz_Form.Designer.cs",
+              "RelativeToolTip": "Quiz_Application\\Quiz_Form.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:12:15.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormStart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormStart.Designer.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormStart.Designer.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormStart.Designer.cs",
+              "RelativeToolTip": "Quiz_Application\\FormStart.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:03:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormViewSoal.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormViewSoal.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormViewSoal.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormViewSoal.cs",
+              "RelativeToolTip": "Quiz_Application\\FormViewSoal.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:40:40.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormStart.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormStart.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormStart.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormStart.cs",
+              "RelativeToolTip": "Quiz_Application\\FormStart.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:53:57.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormViewSoal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormViewSoal.Designer.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormViewSoal.Designer.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormViewSoal.Designer.cs",
+              "RelativeToolTip": "Quiz_Application\\FormViewSoal.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:46:46.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormEditSoal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormEditSoal.Designer.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormEditSoal.Designer.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormEditSoal.Designer.cs",
+              "RelativeToolTip": "Quiz_Application\\FormEditSoal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:04:13.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormDeleteSoal.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormDeleteSoal.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormDeleteSoal.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormDeleteSoal.cs",
+              "RelativeToolTip": "Quiz_Application\\FormDeleteSoal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:40:42.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormAddSoal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAddSoal.Designer.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormAddSoal.Designer.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAddSoal.Designer.cs",
+              "RelativeToolTip": "Quiz_Application\\FormAddSoal.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAmwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:01:22.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormAddSoal.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAddSoal.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\FormAddSoal.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\FormAddSoal.cs",
+              "RelativeToolTip": "Quiz_Application\\FormAddSoal.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:00:55.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Quiz_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Quiz_Form.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\Quiz_Form.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Quiz_Form.cs",
+              "RelativeToolTip": "Quiz_Application\\Quiz_Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:06:54.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz_Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Ciko\\source\\repos\\Quiz_Application\\Quiz_Application\\Program.cs",
+              "RelativeToolTip": "Quiz_Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:12:50.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
